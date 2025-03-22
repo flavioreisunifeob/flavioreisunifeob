@@ -48,6 +48,6 @@ Me chamo Flávio Perussi Bertão dos Reis, tenho 34 anos e sou de Vargem Grande 
     title="Java"
     height="30px"
     width="100px" 
-    style="padding-right: 10px;" 
+    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  
     />           
